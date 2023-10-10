@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CMBBauc/personalproject.git/static/css/main.073c9b0a.css",
+    "main.js": "/CMBBauc/personalproject.git/static/js/main.54c078a9.js",
+    "static/js/787.c04544ac.chunk.js": "/CMBBauc/personalproject.git/static/js/787.c04544ac.chunk.js",
+    "index.html": "/CMBBauc/personalproject.git/index.html",
+    "main.073c9b0a.css.map": "/CMBBauc/personalproject.git/static/css/main.073c9b0a.css.map",
+    "main.54c078a9.js.map": "/CMBBauc/personalproject.git/static/js/main.54c078a9.js.map",
+    "787.c04544ac.chunk.js.map": "/CMBBauc/personalproject.git/static/js/787.c04544ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.54c078a9.js"
+  ]
+}
